@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 
-**The Impact of School Accessibility on Enrollment: Empirical Evidence from Vietnam**  
+**The Impact of School Accessibility on Enrollment: Empirical Evidence from Vietnam** <a style='color: black;' href='https://hdanguyen.github.io/assets/working-papers/Hanh Dinh An NGUYEN - Working Paper - Impact of School Accessibility.pdf'>[pdf]</a>
 _Capstone Project_
 
 **Abstract:**
@@ -15,7 +15,7 @@ _Capstone Project_
 
 ## Reports
 
-**Wine Consumption and Socioeconomic Factors: A Study of Income, Education, Age, and Marital Status**  
+**Wine Consumption and Socioeconomic Factors: A Study of Income, Education, Age, and Marital Status** <a style='color: black;' href='https://hdanguyen.github.io/assets/reports/Hanh Dinh An NGUYEN - Report - Wine consumption.pdf'>[pdf]</a> 
 _Introduction to Data Analysis: Final Project Report_
 
 **Abstract:**
