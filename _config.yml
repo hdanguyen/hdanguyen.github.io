@@ -117,11 +117,11 @@ author:
   avatar           : "assets/images/avatar/hanh_photo_cropped.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : 
   location         : "Ho Chi Minh City, Vietnam"
-  email            : nguyenanhanh1998@gmail.com
+  email            : hanh.nguyendinh.work@gmail.com
   links:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
-    #   url: "nguyenanhanh1998@gmail.com"
+    #   url: "hanh.nguyendinh.work@gmail.com"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://hdanguyen.github.io"
