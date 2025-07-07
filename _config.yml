@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Nguyen Dinh An Hanh"
   avatar           : "assets/images/avatar/hanh_photo_cropped.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
+  bio              : "B.A in Economics, \nFulbright University Vietnam"
   location         : "Ho Chi Minh City, Vietnam"
   email            : hanh.nguyendinh.work@gmail.com
   links:
