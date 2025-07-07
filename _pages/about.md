@@ -39,5 +39,5 @@ At the heart of it all is a simple motivation: I want to explain economics in a 
 <br>
 <br>
 
-Feel free to get in touch at: <a href="mailto:nguyenanhanh1998@gmail.com">nguyenanhanh1998@gmail.com</a>.
+Feel free to get in touch at: <a href="mailto:hanh.nguyendinh.work@gmail.com">hanh.nguyendinh.work@gmail.com</a>.
 </p>
