@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-## Working Paper
+## Working Papers
 
 **The Impact of School Accessibility on Enrollment: Empirical Evidence from Vietnam**
 Capstone Project
@@ -13,7 +13,7 @@ Capstone Project
 **Abstract:**
 <p style='text-align: justify'>This thesis investigates the impact of school accessibility on student enrollment rates across primary, lower secondary, and upper secondary education levels in Vietnam. While education policies in Vietnam have historically improved access—such as through tuition reductions and school construction—the specific effects of increased school availability remain underexplored. Using panel data from the Vietnam Statistical Yearbook and the Vietnam Household Living Standards Survey (VHLSS), this study evaluates how changes in school accessibility—measured by number of schools, school density, and area coverage—affect enrollment outcomes. Results from fixed effects models The analysis suggests mixed effects: improved accessibility is positively correlated with secondary enrollment but surprisingly negatively associated with primary enrollment in simpler models. However, these associations become statistically insignificant under two-way fixed effects, likely due to data limitations. Despite these challenges, the study demonstrates the value of nuanced policy design and improved data quality for future educational planning in Vietnam.</p>
 
-## Report
+## Reports
 
 **Wine Consumption and Socioeconomic Factors: A Study of Income, Education, Age, and Marital Status**
 
