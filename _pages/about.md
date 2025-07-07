@@ -17,7 +17,10 @@ redirect_from:
 
 ### About Me
 
-**Welcome!**
+<br>
+Welcome!
+<br>
+
 <p style='text-align: justify;'>
 I’m a recent graduate from Fulbright University Vietnam with a B.A. in Economics.
 <br>
